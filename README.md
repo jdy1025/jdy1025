@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?height=250&color=9DD3EA&text=Dayoung%20Jeon&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn)
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?height=250&color=9DD3EA&text=Dayoung%20Jeon&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn)
 
 ### 🙋🏻‍♀️Skills
 🎀 Platforms & Languages
