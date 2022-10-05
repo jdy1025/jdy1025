@@ -16,4 +16,3 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat square&logo=Notion&logoColor=white&link=https://j-dy.notion.site/3cbef6fac71f42bc91955dd941105d3c"/></a> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat square&logo=Jira&logoColor=white"/>
 
-
